@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DotNetHamburgerTwo.Views.CouponSummaryPage"
+             Title="{Binding }">
+  <StackLayout VerticalOptions="FillAndExpand" Spacing="10">
+    <Label Text="Tytuł" TextColor="Gray"/>
+    <Label Text="{Binding Title}"/>
+    <Label Text="Opis" TextColor="Gray"/>
+    <Label Text="{Binding Description}"/>
+    <Label Text="Kategoria" TextColor="Gray"/>
+    <Label Text="{Binding Category}"/>
+    <Label Text="Kupon" TextColor="Gray"/>
+    <Image Source="{Binding ImageUrl}"/>
+  </StackLayout>
+</ContentPage>

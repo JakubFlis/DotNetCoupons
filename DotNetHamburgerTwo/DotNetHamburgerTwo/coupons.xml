@@ -1,0 +1,56 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+	<channel>
+		<title></title>
+		<link></link>
+		<description></description>
+		<language>pl-PL</language>
+		<item>
+			<title>2 x Cheeseburger za 5 zł</title>
+			<thumbnail>kupon1.png</thumbnail>
+			<description>Dwa Cheesburgery za 5 zł w restauracjach McDonalds</description>
+			<pubDate>Fri, 30 Oct 2015 08:15:31 +0000</pubDate>
+			<link></link>
+			<category>Jedzenie</category>
+		</item>
+		<item>
+			<title>Kawa z ciastem za 11 zł</title>
+			<thumbnail>kupon2.png</thumbnail>
+			<description>Truskawkowy Poemat + Małe Capuccino albo Małe Cafe Latte za 11 zł w restauracjach McDonalds</description>
+			<pubDate>Fri, 30 Oct 2015 08:15:31 +0000</pubDate>
+			<link></link>
+			<category>Jedzenie</category>
+		</item>
+		<item>
+			<title>Montaż systemów chłodniczych/klimatyzacji -50%</title>
+			<thumbnail>kupon3.png</thumbnail>
+			<description>Chcesz zamontować system chłodniczy albo klimatyzację a nie masz kasy? Weź kupon na 50% zniżki w firmie Szronar!</description>
+			<pubDate>Fri, 30 Oct 2015 08:15:31 +0000</pubDate>
+			<link></link>
+			<category>Inne</category>
+		</item>
+		<item>
+			<title>Sub15 z kawą/herbatą za 11 zł</title>
+			<thumbnail>kupon4.png</thumbnail>
+			<description>Każdy rodzaj sub15 z kawą lub herbatą za 15zł!</description>
+			<pubDate>Fri, 30 Oct 2015 08:15:31 +0000</pubDate>
+			<link></link>
+			<category>Jedzenie</category>
+		</item>
+		<item>
+			<title>Jeden z pięciu sub15 + Cola za 10zł</title>
+			<thumbnail>kupon5.png</thumbnail>
+			<description>Jeden z pięciu sub15 z Colą za 11zł!</description>
+			<pubDate>Fri, 30 Oct 2015 08:15:31 +0000</pubDate>
+			<link></link>
+			<category>Jedzenie</category>
+		</item>
+		<item>
+			<title>Elegancki strój -50%!</title>
+			<thumbnail>kupon6.png</thumbnail>
+			<description>Bluzki, garnitury, marynarki, sweterki z rabatem do minus 50%!</description>
+			<pubDate>Fri, 30 Oct 2015 08:15:31 +0000</pubDate>
+			<link></link>
+			<category>Ubrania</category>
+		</item>
+	</channel>
+</rss>

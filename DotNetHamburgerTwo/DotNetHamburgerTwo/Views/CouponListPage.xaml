@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DotNetHamburgerTwo.Views.CouponListPage">
+  <ListView x:Name="Coupons" ItemsSource="{Binding Coupons}" ItemSelected="Coupons_OnItemSelected">
+    <ListView.ItemTemplate>
+      <DataTemplate>
+        <ImageCell Text="{Binding Title}" Detail="{Binding Description}" ImageSource="{Binding ImageUrl}"/>
+      </DataTemplate>
+    </ListView.ItemTemplate>
+  </ListView>
+</ContentPage>
